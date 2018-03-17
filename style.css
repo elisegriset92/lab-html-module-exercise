@@ -1,0 +1,186 @@
+*{
+  font-family: sans-serif;
+  letter-spacing: 0.1em;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 50px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+display: inline-block;
+margin: 0 10px;
+}
+
+header{
+  color: white;
+  background-color: rgb(32,101,136);
+  height: 600px; 
+}
+
+#search-bar {
+  float: right;
+  background: transparent;
+  color: grey;
+}
+
+
+.sign{
+  float: right;
+  text-decoration: none;
+  color: white;
+}
+.background1{
+background-image: url("images/city-scape.svg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.build {
+  margin: 0 auto;
+  width: 50%;
+  padding-top: 150px;
+}
+
+#button1{
+color: white;
+text-decoration: none;
+background-color:#f09233;
+border-radius: 20px;
+padding: 7px 26px 8px 26px;
+font-size: 18px;
+}
+
+.background2 {
+  background-color: rgb(39, 53, 71);
+  height: 500px;
+}
+
+#image-collab {
+  display: inline-block;
+  float: left;
+  height: 350px;
+  width: 40%;
+  margin-top: 100px;
+}
+
+#button2{
+  color: white;
+  text-decoration: none;
+  background-color: #C12127;
+  border-radius: 20px;
+  padding: 7px 26px 8px 26px;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+#button3{
+  color: white;
+  text-decoration: none;
+}
+
+.powerful {
+ display: inline-block;
+  width: 60%;
+  color: white;
+  float: right;
+  margin-top: 150px;
+}
+
+.li{
+  margin: 0 auto;
+  width: 70%;
+  color: white;
+}
+
+.image-collab{
+  width: 50%;
+ margin: 0 auto;
+}
+
+.background3{
+  background-image: url("images/forklift.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+.what-npm {
+  display: inline-block;
+  width: 60%;
+  color: white;
+  margin-top: 150px;
+  margin-left: 50px;
+}
+
+#button4 {
+  background-color: grey;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+padding: 7px 26px 8px 26px;
+font-size: 18px;
+}
+
+.col {
+  float: left;
+}
+
+.col-3 {
+  width: 30%;
+}
+
+.col-middle {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.box {
+  font-size: 0.8em; 
+  color: grey;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+
+.last-title {
+  text-align: center;
+  margin-top: 50px;
+  color: black;
+
+}
+
+.last-text {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #6d7986;
+
+}
+
+h3{
+  font-size: 1.5em;
+  color: black;
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
